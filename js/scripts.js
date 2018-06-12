@@ -37,11 +37,9 @@ $(document).ready(function() {
       var adultPrice = 12;
       //total = childPrice*inputChild+adultPrice*inputAdult;
       }
-     console.log(total);
 
     $("ul#contacts").append(
       "<li><span class='movieInfo'>" + newTicket.movie + "</span></li>");
-      debugger;
     $(".movieInfo").last().click(function(){
       $("#show-info").show();
       $("#show-info h2").text(newTicket.movie);
@@ -50,7 +48,6 @@ $(document).ready(function() {
       $(".child-input").text(newTicket.children);
       $(".adult-input").text(newTicket.adult);
       $(".total").text(newTicket.total);
-      alert(newTicket.total);
      //$(".city-name").text(newTicket.cityName);
     //  $(".state-name").text(newTicket.stateName);
     });

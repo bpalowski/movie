@@ -1,20 +1,20 @@
-# Epicodus Week 4 Day 1 Address Book Project
+# Epicodus Week 4 Day 2 Movie Ticket Project
 
 ## Author
 
-Steven Colburn  
+Marie Dillard
 Brian Palowski
 ## Project Name
 
-Address Book
+Movie Ticket
 
 ## Created
 
-06/11/2018
+06/12/2018
 
 ## About
 
-Follow along with this weekend's homework to create an address book application using constructors and prototypes.
+Follow along with this weekend's homework to create a movie ticket application using constructors and prototypes.
 
 ## Specifications Outline:
 
@@ -25,15 +25,13 @@ HTML, CSS, Javascript, jQuery, arrays, objects
 
 ## Installation
 Clone from:
-https://github.com/Xamdes/address-book-objects.git
-https://github.com/bpalowski/address-book-objects.git
+https://github.com/bunnymarie/movietickets.git
+https://github.com/bpalowski/movie.git
 
 
 ## License
 
 The MIT License (MIT)
-
-Copyright (c) 2015 Chris Kibble
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
